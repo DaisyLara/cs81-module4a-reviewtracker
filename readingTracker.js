@@ -1,4 +1,4 @@
-//URL:
+//URL: https://github.com/DaisyLara/cs81-module4a-reviewtracker
 
 // Weekly reading log
 const readingLog = [ // This function is creating an array readingLog. Each object in the array has 3 keys
