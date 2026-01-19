@@ -1,0 +1,5 @@
+What was the most helpful aspect of this code’s structure?
+    Seeing the code "in action" was useful. The book sometimes just becomes words, and watching videos is very passive although significantly more personally helpful than the readings. Having to process the code to understand what it's doing, and occasionally breaking it (accidentally or on purpose) is helpful in understanding what actually is happening.
+    I hadn't understood the "for...of" loops until seeing it in this assignment and going to search for how it worked again. The longer version of the code with the [i] makes more visual sense, but would be frustrating to write so I'm glad these shortened versions exist.
+What part was confusing or took longer to understand?
+    I have a hard time with understanding the difference between [], {}, () when I have to write the code. I'm always convinced that I understand it when I see it in videos or in the text, but then when I'm actually thinking through some code I get errors galore. Seeing it in this file is helpful for reference, and I'm sure I will come look at this assignments several times until I'm more comfortable with their specific use case.
